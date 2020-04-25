@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=MyHashTable
+comment1.params=n
+comment1.target=MyHashTable(int)
+comment2.params=student
+comment2.target=boolean\ insertStudent(Student)
+comment3.params=ID
+comment3.target=Student\ getStudent(java.lang.String)
+comment4.params=ID
+comment4.target=Student\ removeStudent(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6
